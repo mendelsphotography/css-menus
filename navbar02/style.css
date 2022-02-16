@@ -25,6 +25,7 @@ header {
 }
 
 .logo {
+  justify-content: left;
   width: 120px;
   /*height: 120px;*/
   cursor: pointer;
