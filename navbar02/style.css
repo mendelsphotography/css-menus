@@ -12,7 +12,8 @@ li, a, button {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  color: #edf0f1;
+  /*color: #edf0f1;*/
+   color: #7A7A7A;
   text-decoration: none;
 }
 
@@ -24,8 +25,8 @@ header {
 }
 
 .logo {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   cursor: pointer;
   margin-right: auto;
 }
@@ -44,7 +45,8 @@ header {
 }
 
 .nav_links li a:hover {
-  color: #0088a9;
+  /*color: #0088a9;*/
+  color: #FF8A16;
 }
 
 button {
