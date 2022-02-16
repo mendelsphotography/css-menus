@@ -25,10 +25,11 @@ header {
 }
 
 .logo {
-  width: 200px;
-  height: 200px;
+  width: 120px;
+  /*height: 120px;*/
   cursor: pointer;
-  margin-right: auto;
+  /*margin-right: auto;*/
+  margin: 14px;
 }
 
 .nav_links {
