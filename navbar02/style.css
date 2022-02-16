@@ -30,6 +30,7 @@ header {
   /*height: 120px;*/
   cursor: pointer;
   /*margin-right: auto;*/
+  float: left; 
   margin: 14px;
 }
 
