@@ -33,6 +33,8 @@ header {
 }
 
 .nav_links {
+  display: flex;
+  justify-content: flex-end;
   list-style: none;
   justify-content: right;
   float: right;
