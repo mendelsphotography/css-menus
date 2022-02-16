@@ -35,10 +35,11 @@ header {
 .nav_links {
   list-style: none;
   justify-content: right;
+  float: right;
 }
 
 .nav_links ul {
- justify-content: left;
+ justify-content: right;
 }
 
 .nav_links li {
